@@ -6,3 +6,4 @@ jupyter
 scipy
 scikit-learn
 statsmodels
+pingouin
