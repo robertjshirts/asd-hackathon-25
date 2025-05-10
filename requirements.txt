@@ -5,3 +5,4 @@ seaborn
 jupyter
 scipy
 scikit-learn
+statsmodels
