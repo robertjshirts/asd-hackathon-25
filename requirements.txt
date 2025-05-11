@@ -12,3 +12,4 @@ shap
 catboost
 imblearn
 optuna
+tensorflow
