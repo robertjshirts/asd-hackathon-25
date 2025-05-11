@@ -9,3 +9,4 @@ statsmodels
 pingouin
 xgboost
 shap
+catboost
