@@ -2,7 +2,17 @@
 
 ## Setting up the Virtual Environment
 
-1. Activate the virtual environment:
+1. Create the virtual environment:
+   - On Windows:
+   ```bash
+   python -m venv .venv
+   ```
+   - On Unix/MacOS:
+   ```bash
+   python3 -m venv .venv
+   ```
+
+2. Activate the virtual environment:
    - On Windows:
      ```bash
      .venv\Scripts\activate
@@ -12,7 +22,7 @@
      source .venv/bin/activate
      ```
 
-2. Install the required packages:
+3. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
