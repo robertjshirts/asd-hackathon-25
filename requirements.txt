@@ -11,3 +11,4 @@ xgboost
 shap
 catboost
 imblearn
+optuna
