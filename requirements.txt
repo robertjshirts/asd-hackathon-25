@@ -7,3 +7,5 @@ scipy
 scikit-learn
 statsmodels
 pingouin
+xgboost
+shap
