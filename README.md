@@ -35,11 +35,11 @@ At least according to our data set:
 1. Create the virtual environment:
    - On Windows:
    ```bash
-   python -m venv .venv
+   python3.12 -m venv .venv
    ```
    - On Unix/MacOS:
    ```bash
-   python3 -m venv .venv
+   python3.12 -m venv .venv
    ```
 
 2. Activate the virtual environment:
