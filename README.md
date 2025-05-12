@@ -78,3 +78,13 @@ When you're done working, you can deactivate the virtual environment by running:
 ```bash
 deactivate
 ``` 
+## Hackathon Project
+
+### The Team
+Jake Malmrose - https://github.com/JakeMalmrose
+Robbie Shirts - https://github.com/robertjshirtsc
+Zachariah Hansen - https://github.com/ZachariahHansen
+
+### The Task
+https://github.com/Aabo-Home/hackathon-2025-asd-analysis
+
