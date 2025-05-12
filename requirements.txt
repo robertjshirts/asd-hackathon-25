@@ -13,3 +13,4 @@ catboost
 imblearn
 optuna
 tensorflow
+fairlearn
