@@ -29,6 +29,7 @@ At least according to our data set:
 - Residing in the united states makes you more than 50% likely to have an autism diagnosis
 
 # Project Setup and Running Instructions
+Note: Your python version must be 3.12, as TensorFlow doesn't support Python 3.13 yet.
 
 ## Setting up the Virtual Environment
 
