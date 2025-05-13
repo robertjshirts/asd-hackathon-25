@@ -83,7 +83,9 @@ deactivate
 
 ### The Team
 Jake Malmrose - https://github.com/JakeMalmrose
-Robbie Shirts - https://github.com/robertjshirtsc
+
+Robbie Shirts - https://github.com/robertjshirts
+
 Zachariah Hansen - https://github.com/ZachariahHansen
 
 ### The Task
